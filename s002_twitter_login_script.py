@@ -15,3 +15,5 @@ password_box.send_keys(password)
 
 login_btn = driver.find_element_by_css_selector('button.submit.EdgeButton.EdgeButton--primary.EdgeButtom--medium')
 login_btn.submit()
+
+print('Script ran successfully!!!')
