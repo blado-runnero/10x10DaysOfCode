@@ -1,5 +1,4 @@
 ##first draft
-
 ## at this point I am able to scrape scores only
 
 from bs4 import BeautifulSoup
